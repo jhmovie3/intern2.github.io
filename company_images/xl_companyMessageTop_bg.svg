@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="1099" viewBox="0 0 1366 1099">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.011" y1="0.073" x2="1.037" y2="1.025" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#45cdd2"/>
+      <stop offset="0.511" stop-color="#60cae3"/>
+      <stop offset="1" stop-color="#35e5de"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.011" y1="0.927" x2="-0.037" y2="-0.025" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path">
+      <rect id="長方形_4000" data-name="長方形 4000" width="1366" height="715" transform="translate(0 -170)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="パス_48451" data-name="パス 48451" d="M0,0H1366V384H0Z" fill="url(#linear-gradient-2)"/>
+    </clipPath>
+  </defs>
+  <g id="xl_companyMessageTop_bg" transform="translate(14887 9301)">
+    <g id="マスクグループ_64" data-name="マスクグループ 64" transform="translate(-14887 -9131)" clip-path="url(#clip-path)">
+      <path id="パス_48449" data-name="パス 48449" d="M883.97,0c488.2,0,883.97,280.686,883.97,626.931s-395.767,626.931-883.97,626.931S0,973.175,0,626.931,395.767,0,883.97,0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, -44.854, -390.999)" fill="#f0fbff"/>
+    </g>
+    <g id="マスクグループ_65" data-name="マスクグループ 65" transform="translate(-14887 -8586)" clip-path="url(#clip-path-2)">
+      <path id="パス_48450" data-name="パス 48450" d="M862.858,880.959C386.315,880.959,0,683.75,0,440.479S386.315,0,862.858,0s862.858,197.209,862.858,440.479S1339.4,880.959,862.858,880.959Z" transform="translate(-179.858 -496.959)" fill="#f0fbff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="1002" viewBox="0 0 1366 1002">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_3642" data-name="長方形 3642" width="1366" height="734" transform="translate(0 116)" fill="#87d8de"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="長方形_3643" data-name="長方形 3643" width="1366" height="268" fill="#87d8de"/>
+    </clipPath>
+  </defs>
+  <g id="xl_strength_bg_02" transform="translate(0 -116)">
+    <g id="マスクグループ_13" data-name="マスクグループ 13" clip-path="url(#clip-path)">
+      <path id="パス_25248" data-name="パス 25248" d="M1037.973,0C1611.23,0,2075.947,302.916,2075.947,676.583s-464.717,676.583-1037.973,676.583S0,1050.249,0,676.583,464.716,0,1037.973,0Z" transform="translate(-59.682 116)" fill="#f0fbff"/>
+    </g>
+    <g id="マスクグループ_14" data-name="マスクグループ 14" transform="translate(0 850)" clip-path="url(#clip-path-2)">
+      <path id="パス_25249" data-name="パス 25249" d="M1226.071,1401.061C548.931,1401.061,0,1087.423,0,700.531S548.931,0,1226.071,0,2452.141,313.638,2452.141,700.531,1903.211,1401.061,1226.071,1401.061Z" transform="translate(-475.07 -1133.061)" fill="#f0fbff"/>
+    </g>
+  </g>
+</svg>

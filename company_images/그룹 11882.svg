@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="229.148" height="225.434" viewBox="0 0 229.148 225.434">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_3768" data-name="사각형 3768" width="229.148" height="225.434" fill="#43aeca"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_11882" data-name="그룹 11882" transform="translate(-1078.787 -4009.16)" opacity="0.3">
+    <g id="그룹_11881" data-name="그룹 11881" transform="translate(1078.787 4009.16)">
+      <g id="그룹_11880" data-name="그룹 11880" clip-path="url(#clip-path)">
+        <path id="패스_48430" data-name="패스 48430" d="M38.58,79.409a67.9,67.9,0,0,1,61.913-39.995V9A98.209,98.209,0,0,0,18.975,52.342Z" transform="translate(14.022 6.649)" fill="#43aeca"/>
+        <path id="패스_48431" data-name="패스 48431" d="M105.089,31.256,65.853,0V62.512Z" transform="translate(48.664 0)" fill="#43aeca"/>
+        <path id="패스_48432" data-name="패스 48432" d="M82.284,37.578a67.9,67.9,0,0,1,39.995,61.913H152.7a98.209,98.209,0,0,0-43.344-81.518Z" transform="translate(60.806 13.282)" fill="#43aeca"/>
+        <path id="패스_48433" data-name="패스 48433" d="M127.081,104.088l31.256-39.237H95.825Z" transform="translate(70.812 47.924)" fill="#43aeca"/>
+        <path id="패스_48434" data-name="패스 48434" d="M79.409,125.889A67.9,67.9,0,0,1,39.414,63.976H9a98.209,98.209,0,0,0,43.344,81.518Z" transform="translate(6.649 47.277)" fill="#43aeca"/>
+        <path id="패스_48435" data-name="패스 48435" d="M31.256,41.412,0,80.649H62.512Z" transform="translate(0 30.603)" fill="#43aeca"/>
+        <path id="패스_48436" data-name="패스 48436" d="M126.891,80.148a67.9,67.9,0,0,1-61.913,39.995v30.416A98.209,98.209,0,0,0,146.5,107.215Z" transform="translate(48.017 59.228)" fill="#43aeca"/>
+        <path id="패스_48437" data-name="패스 48437" d="M42.414,124.945,81.652,156.2l0-62.513Z" transform="translate(31.343 69.234)" fill="#43aeca"/>
+      </g>
+    </g>
+    <text id="plan" transform="translate(1135.629 4068.349) rotate(-30)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" letter-spacing="0.12em"><tspan x="0" y="0">PLAN</tspan></text>
+    <text id="DO" transform="translate(1254.074 4072.69) rotate(53)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" letter-spacing="0.12em"><tspan x="0" y="0">DO</tspan></text>
+    <text id="ACT" transform="translate(1136.141 4173.501) rotate(-124)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" letter-spacing="0.12em"><tspan x="0" y="0">ACT</tspan></text>
+    <text id="check" transform="matrix(-0.829, 0.559, -0.559, -0.829, 1259.557, 4167.385)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI" letter-spacing="0.12em"><tspan x="0" y="0">CHECK</tspan></text>
+  </g>
+</svg>
